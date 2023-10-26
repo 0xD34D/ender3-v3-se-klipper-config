@@ -2,6 +2,7 @@
 ---
 ## What works
 - X, Y, Z and extruder steppers
+  - TMC2209 UART control for X, Y, and Z
 - X, Y endstops
 - CR touch probe
 - Heated bed & temp sensor
